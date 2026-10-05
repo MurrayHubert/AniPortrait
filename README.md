@@ -48,7 +48,7 @@ audio and a reference portrait image. You can also provide a video to achieve fa
 </tr>
 </table>
 
-### Face reenacment
+### Face reenactment
 
 <table class="center">
 <tr>
